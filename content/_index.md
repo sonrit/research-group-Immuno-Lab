@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        ImmunoLab Graz
+        Medical University of Graz
       image:
         filename: welcome.jpg
       text: |
